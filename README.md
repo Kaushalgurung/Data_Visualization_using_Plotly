@@ -1,0 +1,1 @@
+Data Visualization using Plotly. Plotly is a python graphing library which is used to make interactive, publication-quality graphs. It allows users to import, copy and paste, or stream data to be analyzed and visualized.
